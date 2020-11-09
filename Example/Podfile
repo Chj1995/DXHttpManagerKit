@@ -1,7 +1,7 @@
 source 'https://github.com/Chj1995/DXSpecs.git'
 source 'https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git'
 
-use_frameworks!
+#use_frameworks!
 
 platform :ios, '10.0'
 
