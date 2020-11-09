@@ -202,7 +202,7 @@ PODS:
   - DXConstantsKit/Service (0.1.9)
   - DXConstantsKit/Tool (0.1.9)
   - DXConstantsKit/Type (0.1.9)
-  - DXHttpManagerKit (0.1.7):
+  - DXHttpManagerKit (0.1.9):
     - AFNetworking
     - DXCategoryKit
     - OpenUDID
@@ -241,7 +241,7 @@ SPEC CHECKSUMS:
   AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
   DXCategoryKit: ee82b9fa8a6164e950ce037dac22e8e9dad9c609
   DXConstantsKit: 381a91d57e9130dd3f1facb2beaf51cba0327475
-  DXHttpManagerKit: 9f6baa292e2f6e8a3140b5628a215a0cc8dce78c
+  DXHttpManagerKit: fa65b1e9377b35505934cf00bac4a787ec07bbb0
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
   MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
   MJRefresh: 6afc955813966afb08305477dd7a0d9ad5e79a16
