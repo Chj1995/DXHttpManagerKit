@@ -218,8 +218,10 @@ PODS:
   - YYKit/no-arc (1.0.9)
 
 DEPENDENCIES:
+  - AFNetworking
   - DXCategoryKit
   - DXHttpManagerKit (from `../`)
+  - OpenUDID
 
 SPEC REPOS:
   https://github.com/Chj1995/DXSpecs.git:
@@ -250,6 +252,6 @@ SPEC CHECKSUMS:
   SDWebImage: b69257f4ab14e9b6a2ef53e910fdf914d8f757c1
   YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
 
-PODFILE CHECKSUM: 19f7ec6f8f95ff1d0fef02a14f442e8237cb7508
+PODFILE CHECKSUM: df8ad0ceb9e90402549f2ae7fe28d6b2dcc0172a
 
 COCOAPODS: 1.10.0
