@@ -7,6 +7,7 @@ platform :ios, '10.0'
 
 target 'DXHttpManagerKit_Example' do
   pod 'DXHttpManagerKit', :path => '../'
+  pod 'DXCategoryKit'
 
   target 'DXHttpManagerKit_Tests' do
     inherit! :search_paths
