@@ -1,0 +1,33 @@
+{
+  "name": "DXHttpManagerKit",
+  "version": "0.1.0",
+  "summary": "A short description of DXHttpManagerKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chenhj/DXHttpManagerKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chenhj": "chenhj@actumtech.com"
+  },
+  "source": {
+    "git": "https://github.com/chenhj/DXHttpManagerKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DXHttpManagerKit/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "DXCategoryKit": [
+
+    ],
+    "OpenUDID": [
+
+    ]
+  }
+}
